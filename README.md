@@ -77,7 +77,7 @@ And just run it:
 docker run
 ```
 
-Done! 🎉 Your tasks have been executed.
+Done! 🎉 Your own intelligent lead balancer is up and running.
 
 ## ✨ Usage
 
@@ -91,7 +91,8 @@ package, you can find on the [pkg.go.dev][go_dev_url] page.
 ## 🏆 A win-win cooperation
 
 And now, I invite you to participate in this project! Let's work **together** to
-create the **most useful** tool for developers on the web today.
+create the **most useful** tool for marketers, SMM, and sales teams on the web 
+today.
 
 - [Issues][repo_issues_url]: ask questions and submit your features.
 - [Pull requests][repo_pull_request_url]: send your improvements to the current.
