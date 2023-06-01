@@ -1,4 +1,4 @@
-# ab-test-balancer – An intelligent lead balancer for your next marketing A/B tests with analytics
+# ab-test-balancer – An intelligent lead balancer for your next marketing A/B tests
 
 [![Go version][go_version_img]][go_dev_url]
 [![Go report][go_report_img]][go_report_url]
