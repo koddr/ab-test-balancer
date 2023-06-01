@@ -22,9 +22,10 @@ Features:
 
 ## ⚡️ Quick start
 
-First, fork this repository, `git clone` and go to the project folder.
+First, [fork][repo_fork_url] this repository, make `git clone`, and go to the 
+project folder.
 
-Prepare your configuration file. You could use any of a popular format 
+Next, prepare your configuration file. You could use any of a popular format 
 (JSON, YAML, TOML or HCL), file structure must be the same.
 
 For example, `./config.json`:
@@ -64,13 +65,13 @@ For example, `./config.json`:
 > 💡 Note: See the repository's [Wiki][wiki_url] page to understand the full
 > structure of the config file.
 
-Next, build your own container:
+Final, build your own container:
 
 ```console
 docker build
 ```
 
-And just run container:
+And just run it:
 
 ```console
 docker run
@@ -113,6 +114,7 @@ for people and robots by [Vic Shóstak][author].
 [license_img]: https://img.shields.io/badge/license-Apache_2.0-red?style=for-the-badge&logo=none
 [license_url]: https://github.com/koddr/ab-test-balancer/blob/main/LICENSE
 [repo_url]: https://github.com/koddr/ab-test-balancer
+[repo_fork_url]: https://github.com/koddr/ab-test-balancer/fork
 [repo_issues_url]: https://github.com/koddr/ab-test-balancer/issues
 [repo_pull_request_url]: https://github.com/koddr/ab-test-balancer/pulls
 [author]: https://github.com/koddr
