@@ -1,4 +1,4 @@
-# ab-test-balancer – An intelligent lead balancer for your next marketing A/B tests
+# ab-test-balancer – An intelligent lead balancer for your next marketing A/B test
 
 [![Go version][go_version_img]][go_dev_url]
 [![Go report][go_report_img]][go_report_url]
@@ -7,7 +7,8 @@
 [![License][license_img]][license_url]
 
 The **ab-test-balancer** project provides an intelligent lead balancer for 
-any A/B marketing tests with analytics of client behavior on your landing pages.
+any A/B marketing tests with in-depth analytics of the client behavior on your 
+landing pages.
 
 Features:
 
