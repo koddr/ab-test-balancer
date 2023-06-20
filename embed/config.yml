@@ -1,0 +1,30 @@
+balance_type: round-robin
+
+default:
+
+  host: example.com
+  path:
+    - main
+    - sales
+  get_params:
+  utm:
+  is_https: true
+
+landings:
+
+  - host: example.com
+    path:
+      - test
+      - '1'
+      - sales
+    get_params:
+      - marketing_id: 123456-abc
+      - other_id: abc-654321
+    utm:
+      - utm_source: ab-test-balancer
+      - utm_medium: landing
+      - utm_campaign: test-1_sales
+      - utm_content: NOW_DATE
+      - utm_term: sale
+    is_https: true
+    leads_count: 10000
